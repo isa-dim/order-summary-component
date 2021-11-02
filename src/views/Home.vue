@@ -4,6 +4,12 @@
   </div>
 </template>
 
+<style scoped media="screen">
+  .home{
+    background-color:	#f5f7ff;
+  }
+</style>
+
 <script>
 // @ is an alias to /src
 import HelloWorld from "@/components/HelloWorld.vue";
