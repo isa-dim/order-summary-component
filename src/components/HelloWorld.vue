@@ -34,6 +34,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
+h3 {
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 900;
+}
 .main{
   display: flex;
   justify-content: center;
@@ -44,6 +48,6 @@ export default {
   min-height: 33rem;
   border-radius: 4%;
   height: auto;
-  background-color:	#f5f7ff;
+  background-color:	white;
 }
 </style>
